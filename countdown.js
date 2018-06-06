@@ -1,4 +1,4 @@
-var output = document.querySelector('.output');
+var output = document.getElementById('output');
 output.innerHTML = '';
 
 var i = 10;
